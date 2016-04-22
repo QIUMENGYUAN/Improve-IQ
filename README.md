@@ -1,5 +1,6 @@
 # Improve-IQ
 A game can improve your IQ
+Attention: the game is very difficult
 
 #Compile
 This game is base on COCOS2D-X3.6, and use SQLite3.
