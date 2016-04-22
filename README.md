@@ -1,7 +1,9 @@
-# Improve-IQ
+#Improve-IQ
 A game can improve your IQ  
 
 Attention: this game is very difficult
+#APP download 
+http://android.myapp.com/myapp/detail.htm?apkName=com.pourwater
 
 #Compile
 This game is base on COCOS2D-X3.6, and use SQLite3.  
